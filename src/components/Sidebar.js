@@ -16,14 +16,14 @@ function Sidebar() {
         </li>
 
         <li class="nav-item">
-          <Link to="admindashboarddesign/mytask" class="nav-link">
+          <Link to="/admindashboarddesign/mytask" class="nav-link">
             
             <span data-feather="file"></span>
             <i class="bi bi-list-ul"></i> My Tasks
           </Link>
         </li>
         <li class="nav-item">
-          <Link to="admindashboarddesign/projects" class="nav-link">
+          <Link to="/admindashboarddesign/projects" class="nav-link">
             <span data-feather="shopping-cart"></span>
             <i class="bi bi-x-diamond-fill"></i> Projects
           </Link>
