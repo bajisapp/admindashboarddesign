@@ -161,7 +161,7 @@ function dashboard() {
     <div className='dashboard-card  margin-dashboard'>
    <div className='row'>
     <div className='col-9'>
-    <span style={{color: '#546ee6'}}>Social - FB</span>  
+    <span style={{color: '#546ee6'}}>Social-FB </span>  
     <h6 class='font-design'>50</h6>
     <span class='font-sty'>20 Sloved Tickets</span>
     </div>
