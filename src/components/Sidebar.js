@@ -9,21 +9,21 @@ function Sidebar() {
       <div class="position-sticky pt-3">
         <ul class="nav flex-column">
         <li class="">
-          <Link to="/dashboard" class="nav-link nav-item">
+          <Link to="/admindashboarddesign/dashboard" class="nav-link nav-item">
             <span data-feather="home"></span>
             <i class="bi bi-globe2"></i> Dashboard
           </Link>
         </li>
 
         <li class="nav-item">
-          <Link to="/mytask" class="nav-link">
+          <Link to="admindashboarddesign/mytask" class="nav-link">
             
             <span data-feather="file"></span>
             <i class="bi bi-list-ul"></i> My Tasks
           </Link>
         </li>
         <li class="nav-item">
-          <Link to="/projects" class="nav-link">
+          <Link to="admindashboarddesign/projects" class="nav-link">
             <span data-feather="shopping-cart"></span>
             <i class="bi bi-x-diamond-fill"></i> Projects
           </Link>
