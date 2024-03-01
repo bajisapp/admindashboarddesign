@@ -1,9 +1,6 @@
 import React from 'react'
-import { Link, Route, Switch } from 'react-router-dom';
-import Dashboard from './dashboard';
-import Mytask from './mytask';
-import Projects from './projects';
-import { NavLink } from 'react-router-dom';
+import { Link, } from 'react-router-dom';
+
 
 function Sidebar() {
   return (
@@ -17,7 +14,7 @@ function Sidebar() {
             <i class="bi bi-globe2"></i> Dashboard
           </Link>
         </li>
-        
+
         <li class="nav-item">
           <Link to="/mytask" class="nav-link">
             

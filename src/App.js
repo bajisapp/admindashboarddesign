@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
-import "bootstrap/dist/css/bootstrap.min.css"
-import "bootstrap/dist/js/bootstrap.bundle.min"
+import React from 'react';
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min";
 import Header from "./components/Header";
 import Sidebar from "./components/Sidebar";
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
@@ -12,10 +12,6 @@ import './index.css';
 import "bootstrap-icons/font/bootstrap-icons.css";
 
 function App() {
-
-
-
-
 
   return (
    
